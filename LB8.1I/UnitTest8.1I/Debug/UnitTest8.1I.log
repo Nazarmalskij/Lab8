@@ -1,0 +1,7 @@
+﻿  UnitTest8.1I.cpp
+D:\Project\Lb8\LB8.1I\UnitTest8.1I\UnitTest8.1I.cpp(1): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+D:\Project\Lb8\LB8.1I\UnitTest8.1I\UnitTest8.1I.cpp(1): message : Add macro to precompiled header instead of defining here
+D:\Project\Lb8\LB8.1I\UnitTest8.1I\UnitTest8.1I.cpp(2): message : use of precompiled header
+D:\Project\Lb8\LB8.1I\Source.cpp(40,23): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\Project\Lb8\LB8.1I\Debug\UnitTest8.1I.lib and object D:\Project\Lb8\LB8.1I\Debug\UnitTest8.1I.exp
+  UnitTest8.1I.vcxproj -> D:\Project\Lb8\LB8.1I\Debug\UnitTest8.1I.dll

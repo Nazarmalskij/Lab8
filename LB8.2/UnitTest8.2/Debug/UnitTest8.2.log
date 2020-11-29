@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest8.2.cpp
+D:\Project\Lb8\LB8.2\UnitTest8.2\UnitTest8.2.cpp(16,1): error C2665: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': none of the 8 overloads could convert all the argument types
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(187,15): message : could be 'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const wchar_t *,const wchar_t *,bool,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(168,15): message : or       'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const char *,const char *,bool,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)'
+D:\Project\Lb8\LB8.2\UnitTest8.2\UnitTest8.2.cpp(16,1): message : while trying to match the argument list '(const char [11], std::string)'
